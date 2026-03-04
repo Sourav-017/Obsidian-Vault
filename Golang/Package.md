@@ -1,0 +1,2 @@
+1. All files intended to share variables and functions must declare the same `package`, e.g., `package main`. This tells Go they are part of the same program.
+2. - Variables and functions declared at the **top level** (outside any function) within a package are automatically accessible in other files within the _same package_.[[GOLANG]]
