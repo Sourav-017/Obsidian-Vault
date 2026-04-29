@@ -1,0 +1,3 @@
+[[Mixin]]
+[[Factory Design Pattern]]
+

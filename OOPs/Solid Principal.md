@@ -1,0 +1,5 @@
+1. [[Single Responsibility Principal]]
+2. [[Open Closed Principal]]
+3. [[Liskov Substitution Principal]]
+4. [[Interface Segregation Principal]]
+5. [[Dependency Inversion Principal]]
